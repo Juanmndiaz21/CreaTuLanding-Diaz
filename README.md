@@ -1,7 +1,7 @@
 # CreaTuLanding1+Diaz
 
 Proyecto de React para la **Entrega 1: Crea tu landing**.  
-Incluye los componentes base de un e-commerce: **NavBar**, **CartWidget** e **ItemListContainer**, con uso de **props**.
+Incluye los componentes base de un e-commerce: **NavBar**, **CartWidget** e **ItemListContainer**.
 
 ## ✅ Requisitos cumplidos
 - Componentes dentro de `src/components`
